@@ -3,7 +3,7 @@ Esse é um jogo feito inteiramente com Python através da biblioteca Pygame e o 
 
 Instruções de uso:
 - Você vai precisar ter instalado a versão mais atualizada do Python e a biblioteca Pygame.
-- Baixe o arquivo e descompacte
+- Baixe o arquivo PygameZelda e descompacte
 - Se estiver no Visual Studio Code: Abra a pasta e rode o arquivo teste2.py para iniciar o jogo. Rode o arquivo teste3.py se quiser ver a primeira versão do mapa.
 - Se for utilizar o terminal: Realize o mesmo processo descrito acima.
   Ex:
